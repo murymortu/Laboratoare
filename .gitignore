@@ -4,3 +4,7 @@
 *.jar
 *.war
 *.ear
+#Directory struct files
+*.iml
+*.ipr
+*.iws
