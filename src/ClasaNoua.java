@@ -7,4 +7,5 @@ public class ClasaNoua {
     private int a = 20;
     public short b = 5;
     private String string2 = "acesta este alt string Git git git etc";
+    private String nou = "am mai aduaugat un string";
 }
