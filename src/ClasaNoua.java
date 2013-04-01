@@ -8,4 +8,5 @@ public class ClasaNoua {
     public short b = 5;
     private String string2 = "acesta este alt string Git git git etc";
     private String nou = "am mai aduaugat un string";
+    //acesta este noul comment
 }
